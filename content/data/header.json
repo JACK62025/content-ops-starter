@@ -17,7 +17,7 @@
         {
             "label": "HOME",
             "url": "/pricing",
-            "icon": "arrowRight",
+            "icon": "",
             "iconPosition": "left",
             "style": "primary",
             "type": "Link",
