@@ -24,7 +24,8 @@
                 "borderRadius": "large",
                 "borderWidth": 0,
                 "padding": [
-                    "pt-1"
+                    "pt-1",
+                    "pr-1"
                 ]
             }
         }
