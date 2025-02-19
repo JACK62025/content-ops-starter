@@ -43,7 +43,7 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Log in",
+            "label": "",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
