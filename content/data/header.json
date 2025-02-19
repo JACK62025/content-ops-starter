@@ -21,7 +21,8 @@
         "elementId": "",
         "styles": {
             "self": {
-                "borderRadius": "large"
+                "borderRadius": "large",
+                "borderWidth": 8
             }
         }
     }
