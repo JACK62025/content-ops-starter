@@ -20,7 +20,8 @@
             "icon": "arrowRight",
             "iconPosition": "left",
             "style": "primary",
-            "type": "Link"
+            "type": "Link",
+            "showIcon": true
         }
     ],
     "secondaryLinks": [],
