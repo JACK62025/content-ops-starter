@@ -22,7 +22,7 @@
         "styles": {
             "self": {
                 "borderRadius": "large",
-                "borderWidth": 8
+                "borderWidth": 0
             }
         }
     }
