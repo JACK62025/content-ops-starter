@@ -22,7 +22,10 @@
         "styles": {
             "self": {
                 "borderRadius": "large",
-                "borderWidth": 0
+                "borderWidth": 0,
+                "padding": [
+                    "pt-1"
+                ]
             }
         }
     }
